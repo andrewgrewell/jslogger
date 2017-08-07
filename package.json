@@ -1,6 +1,6 @@
 {
   "name": "@provata/logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "javascript logging with emoji support",
   "main": "dist/index.js",
   "author": "Andrew Grewell",
