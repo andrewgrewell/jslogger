@@ -1,5 +1,5 @@
 {
-  "name": "jslogger",
+  "name": "@provata/logger",
   "version": "1.0.0",
   "description": "javascript logging with emoji support",
   "main": "dist/index.js",

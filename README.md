@@ -1,11 +1,11 @@
-# @local/logger
+# Provata Logger
 a logger to be used in node or web environments
 
 
 ## Usage
 ```javascript
 /* logger.js */
-import initLogging from '@local/logger';
+import initLogging from '@provata/logger';
 
 const defaultLevels = [
     { name: 'trace', color: 'lightgray', icon: 'pencil2', consoleMethod: 'debug' },
